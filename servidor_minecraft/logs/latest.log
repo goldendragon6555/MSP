@@ -184,3 +184,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 02:44:14.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:58295] logged in with entity id 2735 at (-841.2445325313885, 73.0, 885.3732022954055)
 [08Dec2024 02:44:14.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
 [08Dec2024 02:44:14.867] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 02:45:34.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 02:45:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 02:49:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[08Dec2024 02:50:18.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:55517] logged in with entity id 5036 at (-1030.0921794232029, 76.0, 768.1720164493435)
+[08Dec2024 02:50:18.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[08Dec2024 02:50:18.464] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 02:50:39.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 02:50:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 02:50:39.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
+[08Dec2024 02:52:13.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:46965] logged in with entity id 5970 at (-1031.699999988079, 76.0, 769.801254631145)
+[08Dec2024 02:52:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[08Dec2024 02:52:13.105] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 02:52:20.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Bonfire Lit]
+[08Dec2024 02:54:31.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.4.72.159:34629] logged in with entity id 7602 at (-846.9924978570842, 72.0, 897.2444049757731)
+[08Dec2024 02:54:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[08Dec2024 02:54:31.754] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[08Dec2024 02:58:50.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7434, l='ServerLevel[world]', x=-944.20, y=64.00, z=975.50] died, message: 'Unemployed was slain by Zombie'
+[08Dec2024 03:00:17.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7497, l='ServerLevel[world]', x=-966.56, y=68.00, z=1049.98] died, message: 'Fisherman was slain by Zombie'
+[08Dec2024 03:02:37.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7646, l='ServerLevel[world]', x=-915.70, y=75.00, z=1004.63] died, message: 'Unemployed was slain by Zombie'
+[08Dec2024 03:04:55.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7643, l='ServerLevel[world]', x=-903.79, y=75.50, z=1002.85] died, message: 'Unemployed was slain by Iron Golem'
+[08Dec2024 03:04:55.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7649, l='ServerLevel[world]', x=-903.58, y=75.67, z=1000.97] died, message: 'Librarian was slain by Iron Golem'
+[08Dec2024 03:05:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Drowned
+[08Dec2024 03:07:12.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7487, l='ServerLevel[world]', x=-891.83, y=65.02, z=1028.34] died, message: 'Unemployed was slain by Zombie'
+[08Dec2024 03:07:50.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Hunt and Gather]
+[08Dec2024 03:09:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[08Dec2024 03:10:58.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 03:10:58.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[08Dec2024 03:13:51.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:59763] logged in with entity id 20531 at (-911.0403215338981, -16.0, 966.5893934691355)
+[08Dec2024 03:13:51.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[08Dec2024 03:13:51.395] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
