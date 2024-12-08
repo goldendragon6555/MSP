@@ -226,3 +226,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 03:33:35.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:42519] logged in with entity id 25361 at (-883.1643404263928, 22.0, 988.3469406916831)
 [08Dec2024 03:33:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
 [08Dec2024 03:33:35.446] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 03:42:31.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Sweet Dreams]
