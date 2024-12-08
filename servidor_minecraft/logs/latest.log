@@ -290,3 +290,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 06:04:57.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
 [08Dec2024 06:05:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
 [08Dec2024 06:06:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[08Dec2024 06:07:54.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 06:07:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
