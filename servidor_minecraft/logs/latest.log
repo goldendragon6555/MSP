@@ -518,3 +518,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 02:01:50.832] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
 [08Dec2024 02:02:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
 [08Dec2024 02:02:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
+[08Dec2024 02:05:50.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 02:05:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[08Dec2024 02:06:19.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:60841] logged in with entity id 19322 at (-351.5022628275474, 75.0, 804.4283106785914)
+[08Dec2024 02:06:19.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[08Dec2024 02:06:19.736] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[08Dec2024 02:13:03.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 02:13:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
