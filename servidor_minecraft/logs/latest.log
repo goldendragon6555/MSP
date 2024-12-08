@@ -246,3 +246,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 04:11:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [A Seedy Place]
 [08Dec2024 04:14:29.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
 [08Dec2024 04:14:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 04:17:09.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[08Dec2024 04:17:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[08Dec2024 04:17:09.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 04:20:57.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:39817] logged in with entity id 35158 at (-1247.0652552441734, -18.0, 1057.0010003726634)
+[08Dec2024 04:20:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[08Dec2024 04:20:57.219] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 04:21:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? fell from a high place
+[08Dec2024 04:23:58.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? moved wrongly!
