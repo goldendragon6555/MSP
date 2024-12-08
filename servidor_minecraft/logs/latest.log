@@ -267,3 +267,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 04:48:34.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
 [08Dec2024 04:48:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was turned into gorgonzola by Gorgon
 [08Dec2024 04:52:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
+[08Dec2024 05:01:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[08Dec2024 05:06:47.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 05:06:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[08Dec2024 05:08:48.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:54249] logged in with entity id 59109 at (-300.0489496624963, 62.07326432466507, 763.403785594929)
+[08Dec2024 05:08:48.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[08Dec2024 05:08:49.067] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[08Dec2024 05:10:43.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60453, l='ServerLevel[world]', x=-831.49, y=73.00, z=869.88] died, message: 'Unemployed was slain by Zombie'
