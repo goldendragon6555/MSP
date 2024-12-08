@@ -504,3 +504,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 01:50:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Who You Gonna Call?]
 [08Dec2024 01:51:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Acquire Hardware]
 [08Dec2024 01:51:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Suit Up]
+[08Dec2024 01:54:13.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Sweet Dreams]
+[08Dec2024 01:54:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Sweet Dreams]
+[08Dec2024 01:55:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [To Die For]
+[08Dec2024 01:55:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 blew up
+[08Dec2024 01:58:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Crops of the Wild]
+[08Dec2024 02:00:53.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[08Dec2024 02:00:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was blown up by Creeper
+[08Dec2024 02:01:21.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[08Dec2024 02:01:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[08Dec2024 02:01:50.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:38889] logged in with entity id 17660 at (-323.090099699975, 128.0, 510.49516776899833)
+[08Dec2024 02:01:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[08Dec2024 02:01:50.832] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[08Dec2024 02:02:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[08Dec2024 02:02:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie

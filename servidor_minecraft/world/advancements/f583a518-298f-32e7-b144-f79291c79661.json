@@ -2055,6 +2055,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-08 01:52:48 +0000",
       "cooked_beef": "2024-12-08 01:31:59 +0000",
       "apple": "2024-12-08 00:52:19 +0000",
       "golden_carrot": "2024-12-08 00:56:58 +0000"
@@ -2207,6 +2208,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-08 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-08 01:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:44:34 +0000"
@@ -2294,6 +2307,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-08 01:57:45 +0000"
     },
     "done": true
   },
@@ -2456,6 +2475,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-08 01:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-08 01:51:53 +0000"
     },
     "done": true
   },
