@@ -240,3 +240,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 04:02:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
 [08Dec2024 04:04:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
 [08Dec2024 04:04:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was blown up by Creeper
+[08Dec2024 04:07:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
+[08Dec2024 04:08:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was shot by Skeleton
+[08Dec2024 04:09:06.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[08Dec2024 04:11:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [A Seedy Place]
+[08Dec2024 04:14:29.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 04:14:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
