@@ -275,3 +275,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 05:08:49.067] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
 [08Dec2024 05:10:43.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60453, l='ServerLevel[world]', x=-831.49, y=73.00, z=869.88] died, message: 'Unemployed was slain by Zombie'
 [08Dec2024 05:18:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[08Dec2024 05:35:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Diamonds!]
+[08Dec2024 05:35:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Sea Serpent
+[08Dec2024 05:36:15.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 05:36:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 05:36:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
