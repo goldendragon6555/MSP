@@ -1658,6 +1658,7 @@
       "minecraft:river": "2024-12-08 00:45:12 +0000",
       "minecraft:stony_shore": "2024-12-08 00:43:22 +0000",
       "minecraft:forest": "2024-12-08 00:45:21 +0000",
+      "minecraft:jungle": "2024-12-08 04:39:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 01:21:58 +0000",
       "minecraft:savanna": "2024-12-08 01:02:11 +0000",
       "minecraft:plains": "2024-12-08 00:43:27 +0000"
@@ -3599,15 +3600,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_leggings": {
     "criteria": {
       "has_item": "2024-12-08 04:34:59 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 04:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-08 04:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
     },
     "done": true
   },
@@ -3620,6 +3639,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-08 04:34:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-08 04:43:05 +0000"
     },
     "done": true
   },

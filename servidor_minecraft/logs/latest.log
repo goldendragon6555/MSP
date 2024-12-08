@@ -256,3 +256,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 04:23:58.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? moved wrongly!
 [08Dec2024 04:30:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Cover Me with Diamonds]
 [08Dec2024 04:34:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Sea? Not a Problem]
+[08Dec2024 04:39:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Cyclops
+[08Dec2024 04:44:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [My Name is Nobody]
+[08Dec2024 04:45:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was turned into gorgonzola by Gorgon
+[08Dec2024 04:46:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was turned to stone by Gorgon
+[08Dec2024 04:48:34.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
+[08Dec2024 04:48:34.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
+[08Dec2024 04:48:34.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
+[08Dec2024 04:48:34.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
+[08Dec2024 04:48:34.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
+[08Dec2024 04:48:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was turned into gorgonzola by Gorgon
+[08Dec2024 04:52:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
