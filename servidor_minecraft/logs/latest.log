@@ -492,3 +492,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 01:31:21.149] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
 [08Dec2024 01:31:21.149] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
 [08Dec2024 01:31:21.150] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[08Dec2024 01:35:42.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Acquire Hardware]
+[08Dec2024 01:35:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Suit Up]
+[08Dec2024 01:36:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Who You Gonna Call?]
