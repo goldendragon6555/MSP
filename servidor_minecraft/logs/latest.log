@@ -214,3 +214,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 03:13:51.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:59763] logged in with entity id 20531 at (-911.0403215338981, -16.0, 966.5893934691355)
 [08Dec2024 03:13:51.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
 [08Dec2024 03:13:51.395] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[08Dec2024 03:17:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Isn't It Iron Pick]
+[08Dec2024 03:18:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Unbreaking X]
+[08Dec2024 03:27:21.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 03:27:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 03:30:04.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:49195] logged in with entity id 24706 at (-885.1638544724085, 24.0, 989.5158241858809)
+[08Dec2024 03:30:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[08Dec2024 03:30:04.735] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[08Dec2024 03:32:13.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[08Dec2024 03:32:13.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[08Dec2024 03:33:35.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:42519] logged in with entity id 25361 at (-883.1643404263928, 22.0, 988.3469406916831)
+[08Dec2024 03:33:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[08Dec2024 03:33:35.446] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
