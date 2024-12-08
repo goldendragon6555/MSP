@@ -495,3 +495,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Dec2024 01:35:42.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Acquire Hardware]
 [08Dec2024 01:35:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Suit Up]
 [08Dec2024 01:36:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Who You Gonna Call?]
+[08Dec2024 01:43:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Isn't It Iron Pick]
+[08Dec2024 01:44:34.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Acquire Hardware]
+[08Dec2024 01:44:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Suit Up]
+[08Dec2024 01:46:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Ghost
+[08Dec2024 01:47:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Ghost
+[08Dec2024 01:47:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Ghost
+[08Dec2024 01:50:40.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Who You Gonna Call?]
+[08Dec2024 01:51:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Acquire Hardware]
+[08Dec2024 01:51:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Suit Up]
