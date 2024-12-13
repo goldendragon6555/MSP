@@ -197,3 +197,6 @@
 [13Dec2024 02:44:55.121] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
 [13Dec2024 02:45:25.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
 [13Dec2024 02:45:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:49:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[13Dec2024 02:51:22.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[13Dec2024 02:51:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
