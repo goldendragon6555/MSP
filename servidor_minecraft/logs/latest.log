@@ -181,3 +181,19 @@
 [13Dec2024 02:37:57.481] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
 [13Dec2024 02:38:27.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
 [13Dec2024 02:38:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:38:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:39:34.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9994, l='ServerLevel[world]', x=-918.05, y=72.50, z=988.77] died, message: 'Unemployed hit the ground too hard'
+[13Dec2024 02:39:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:40:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 fell from a high place
+[13Dec2024 02:41:22.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[13Dec2024 02:41:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[13Dec2024 02:41:32.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.154.4.19:38087] logged in with entity id 11114 at (-1009.1323505963533, 20.0, 976.5888183294834)
+[13Dec2024 02:41:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[13Dec2024 02:41:32.085] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[13Dec2024 02:42:23.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[13Dec2024 02:43:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[13Dec2024 02:44:55.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:53631] logged in with entity id 12540 at (-1060.280700906714, 66.00133597911214, 992.1295168591644)
+[13Dec2024 02:44:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:44:55.121] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:45:25.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[13Dec2024 02:45:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
