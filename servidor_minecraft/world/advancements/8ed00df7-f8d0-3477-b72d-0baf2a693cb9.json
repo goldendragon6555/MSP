@@ -2151,7 +2151,8 @@
       "rotten_flesh": "2024-12-08 00:54:40 +0000",
       "salmon": "2024-12-08 02:26:03 +0000",
       "golden_carrot": "2024-12-08 00:56:57 +0000",
-      "cooked_chicken": "2024-12-08 02:10:13 +0000"
+      "cooked_chicken": "2024-12-08 02:10:13 +0000",
+      "carrot": "2024-12-13 02:29:02 +0000"
     },
     "done": false
   },
@@ -4063,6 +4064,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-12-13 02:08:45 +0000"
@@ -4072,6 +4079,24 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-13 02:08:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-13 02:21:19 +0000"
     },
     "done": true
   },

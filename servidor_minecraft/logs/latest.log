@@ -150,3 +150,34 @@
 [13Dec2024 02:17:51.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
 [13Dec2024 02:17:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
 [13Dec2024 02:17:51.277] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:18:25.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:43171] logged in with entity id 5222 at (-1098.0572861006083, 62.51765776918734, 1019.8393363836636)
+[13Dec2024 02:18:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:18:25.680] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:30:40.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:31:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[13Dec2024 02:32:27.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[13Dec2024 02:32:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:32:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:33:00.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:51945] logged in with entity id 8192 at (-1032.1841883755192, 58.02518302901456, 984.1291176642375)
+[13Dec2024 02:33:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:33:00.821] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:33:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe fell from a high place
+[13Dec2024 02:34:00.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[13Dec2024 02:34:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:34:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[13Dec2024 02:34:34.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:53403] logged in with entity id 8774 at (-1060.280700906714, 66.00133597911214, 992.1295168591644)
+[13Dec2024 02:34:34.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:34:34.781] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:35:04.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[13Dec2024 02:35:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:35:04.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was blown up by Creeper
+[13Dec2024 02:36:41.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@48c89834[id=<null>,name=felipe,properties={},legacy=false] (/127.89.229.213:35217): Took too long to log in
+[13Dec2024 02:36:41.828] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48c89834[id=<null>,name=felipe,properties={},legacy=false] (/127.89.229.213:35217) lost connection: Took too long to log in
+[13Dec2024 02:36:41.870] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:37:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:37:32.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ba7b623[id=<null>,name=felipe,properties={},legacy=false] (/127.89.229.213:33813) lost connection: Disconnected
+[13Dec2024 02:37:57.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:55279] logged in with entity id 9770 at (-1060.280700906714, 66.00133597911214, 992.1295168591644)
+[13Dec2024 02:37:57.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:37:57.481] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:38:27.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[13Dec2024 02:38:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
