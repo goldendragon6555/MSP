@@ -1,294 +1,152 @@
-[08Dec2024 02:34:20.792] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[08Dec2024 02:34:20.795] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[08Dec2024 02:34:22.184] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Dec2024 02:34:22.260] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Dec2024 02:34:22.574] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 02:34:22.577] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 02:34:22.579] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 02:34:22.581] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 02:34:22.805] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[08Dec2024 02:34:22.806] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/MSP/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
-[08Dec2024 02:34:22.806] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[08Dec2024 02:34:24.951] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Dec2024 02:34:25.087] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[08Dec2024 02:34:26.137] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[08Dec2024 02:34:26.138] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[08Dec2024 02:34:26.139] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[08Dec2024 02:34:27.282] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[08Dec2024 02:34:32.258] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[08Dec2024 02:34:32.261] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[08Dec2024 02:34:35.099] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[08Dec2024 02:34:35.100] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[08Dec2024 02:34:35.100] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[08Dec2024 02:34:35.100] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[08Dec2024 02:34:37.202] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[08Dec2024 02:34:37.204] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: SkinLayer3DCompat
-[08Dec2024 02:34:37.213] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[08Dec2024 02:34:37.303] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[08Dec2024 02:34:37.729] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Dec2024 02:34:37.730] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Dec2024 02:34:38.409] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[08Dec2024 02:34:38.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[08Dec2024 02:34:38.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[08Dec2024 02:34:38.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[08Dec2024 02:34:40.656] [main/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood
-[08Dec2024 02:34:40.665] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
-[08Dec2024 02:34:41.772] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[08Dec2024 02:34:41.777] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[08Dec2024 02:34:41.777] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[08Dec2024 02:34:41.858] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.858] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.859] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:41.860] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[08Dec2024 02:34:42.098] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
-[08Dec2024 02:34:42.099] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
-[08Dec2024 02:34:42.129] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[08Dec2024 02:34:42.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[08Dec2024 02:34:42.506] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
-[08Dec2024 02:34:42.508] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[08Dec2024 02:34:42.522] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[08Dec2024 02:34:42.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[08Dec2024 02:34:42.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[08Dec2024 02:34:42.952] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23192!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23192!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
-[08Dec2024 02:34:42.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Dec2024 02:34:43.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[08Dec2024 02:34:43.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[08Dec2024 02:34:43.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.34 Target: null
-[08Dec2024 02:34:43.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[08Dec2024 02:34:43.327] [main/INFO] [journeymap/]: Initializing Packet Registries
-[08Dec2024 02:34:43.330] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23192!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23192!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
-[08Dec2024 02:34:43.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[08Dec2024 02:34:43.454] [main/INFO] [Moonlight/]: Initialized color sets in 33ms
-[08Dec2024 02:34:43.474] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[08Dec2024 02:34:43.516] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[08Dec2024 02:34:43.516] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[08Dec2024 02:34:43.516] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
-[08Dec2024 02:34:43.540] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[08Dec2024 02:34:43.599] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[08Dec2024 02:34:43.627] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[08Dec2024 02:34:43.638] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[08Dec2024 02:34:43.643] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[08Dec2024 02:34:43.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[08Dec2024 02:34:43.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[08Dec2024 02:34:43.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[08Dec2024 02:34:43.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[08Dec2024 02:34:46.269] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Dec2024 02:34:47.721] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[08Dec2024 02:34:47.722] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[08Dec2024 02:34:50.718] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
-[08Dec2024 02:34:52.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[08Dec2024 02:34:52.721] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2376 advancements
-[08Dec2024 02:34:52.775] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
-[08Dec2024 02:34:52.799] [main/INFO] [Dungeon Crawl/]: Loading data...
-[08Dec2024 02:34:53.174] [main/INFO] [Dungeon Crawl/]: Done.
-[08Dec2024 02:34:53.192] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[08Dec2024 02:34:53.196] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[08Dec2024 02:34:53.197] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[08Dec2024 02:34:54.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Dec2024 02:34:54.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Dec2024 02:34:54.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Dec2024 02:34:54.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Dec2024 02:34:54.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Dec2024 02:34:54.426] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Dec2024 02:34:54.495] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
-[08Dec2024 02:34:54.508] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Dec2024 02:34:54.518] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Dec2024 02:34:54.518] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Dec2024 02:34:54.518] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Dec2024 02:34:54.518] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Dec2024 02:34:54.536] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Dec2024 02:34:54.537] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Dec2024 02:34:54.538] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Dec2024 02:34:54.631] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
-[08Dec2024 02:34:54.633] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay na
-[08Dec2024 02:34:54.811] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[08Dec2024 02:34:55.271] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[08Dec2024 02:34:55.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Dec2024 02:34:55.602] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x43a49644, QuicStreamAddress{streamId=0}]
-[08Dec2024 02:34:55.604] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
-[08Dec2024 02:34:55.626] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
-[08Dec2024 02:34:55.628] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: measure-novel.na.e4mc.link
-[08Dec2024 02:34:59.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Dec2024 02:35:02.775] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.822] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.842] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.942] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.978] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.979] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:02.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:03.404] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:03.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:04.401] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:04.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:05.407] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:05.897] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 02:35:06.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[08Dec2024 02:35:06.782] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6886 ms
-[08Dec2024 02:35:06.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.250s)! For help, type "help"
-[08Dec2024 02:35:06.838] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Dec2024 02:35:06.898] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
-[08Dec2024 02:35:06.905] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[08Dec2024 02:35:06.906] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[08Dec2024 02:35:06.907] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[08Dec2024 02:35:15.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:40301] logged in with entity id 36 at (-882.6641847011072, 67.24918707874468, 1009.4343286763738)
-[08Dec2024 02:35:15.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
-[08Dec2024 02:35:15.528] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
-[08Dec2024 02:35:20.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[08Dec2024 02:35:40.185] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/377, l='ServerLevel[world]', x=-774.99, y=63.00, z=815.99]
-[08Dec2024 02:35:40.310] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/378, l='ServerLevel[world]', x=-854.91, y=69.00, z=815.91]
-[08Dec2024 02:35:40.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/379, l='ServerLevel[world]', x=-870.30, y=68.00, z=808.50]
-[08Dec2024 02:35:40.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/380, l='ServerLevel[world]', x=-874.02, y=64.00, z=815.95]
-[08Dec2024 02:35:56.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Unemployed'/400, l='ServerLevel[world]', x=-845.99, y=63.00, z=799.99]
-[08Dec2024 02:36:03.163] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[08Dec2024 02:36:03.165] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[08Dec2024 02:36:03.165] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[08Dec2024 02:36:03.166] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[08Dec2024 02:36:03.341] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[08Dec2024 02:36:03.343] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[08Dec2024 02:36:03.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[08Dec2024 02:36:03.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[08Dec2024 02:36:03.367] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[08Dec2024 02:44:14.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:58295] logged in with entity id 2735 at (-841.2445325313885, 73.0, 885.3732022954055)
-[08Dec2024 02:44:14.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 02:44:14.867] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 02:45:34.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 02:45:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 02:49:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
-[08Dec2024 02:50:18.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:55517] logged in with entity id 5036 at (-1030.0921794232029, 76.0, 768.1720164493435)
-[08Dec2024 02:50:18.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 02:50:18.464] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 02:50:39.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 02:50:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 02:50:39.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
-[08Dec2024 02:52:13.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:46965] logged in with entity id 5970 at (-1031.699999988079, 76.0, 769.801254631145)
-[08Dec2024 02:52:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 02:52:13.105] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 02:52:20.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Bonfire Lit]
-[08Dec2024 02:54:31.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.4.72.159:34629] logged in with entity id 7602 at (-846.9924978570842, 72.0, 897.2444049757731)
-[08Dec2024 02:54:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
-[08Dec2024 02:54:31.754] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
-[08Dec2024 02:58:50.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7434, l='ServerLevel[world]', x=-944.20, y=64.00, z=975.50] died, message: 'Unemployed was slain by Zombie'
-[08Dec2024 03:00:17.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7497, l='ServerLevel[world]', x=-966.56, y=68.00, z=1049.98] died, message: 'Fisherman was slain by Zombie'
-[08Dec2024 03:02:37.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7646, l='ServerLevel[world]', x=-915.70, y=75.00, z=1004.63] died, message: 'Unemployed was slain by Zombie'
-[08Dec2024 03:04:55.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7643, l='ServerLevel[world]', x=-903.79, y=75.50, z=1002.85] died, message: 'Unemployed was slain by Iron Golem'
-[08Dec2024 03:04:55.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7649, l='ServerLevel[world]', x=-903.58, y=75.67, z=1000.97] died, message: 'Librarian was slain by Iron Golem'
-[08Dec2024 03:05:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Drowned
-[08Dec2024 03:07:12.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7487, l='ServerLevel[world]', x=-891.83, y=65.02, z=1028.34] died, message: 'Unemployed was slain by Zombie'
-[08Dec2024 03:07:50.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Hunt and Gather]
-[08Dec2024 03:09:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
-[08Dec2024 03:10:58.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
-[08Dec2024 03:10:58.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
-[08Dec2024 03:13:51.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:59763] logged in with entity id 20531 at (-911.0403215338981, -16.0, 966.5893934691355)
-[08Dec2024 03:13:51.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
-[08Dec2024 03:13:51.395] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
-[08Dec2024 03:17:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Isn't It Iron Pick]
-[08Dec2024 03:18:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Unbreaking X]
-[08Dec2024 03:27:21.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 03:27:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 03:30:04.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:49195] logged in with entity id 24706 at (-885.1638544724085, 24.0, 989.5158241858809)
-[08Dec2024 03:30:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 03:30:04.735] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 03:32:13.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 03:32:13.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 03:33:35.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:42519] logged in with entity id 25361 at (-883.1643404263928, 22.0, 988.3469406916831)
-[08Dec2024 03:33:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 03:33:35.446] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 03:42:31.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Sweet Dreams]
-[08Dec2024 03:45:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <?El.CocaInAs?> mellaman al wassap ya vuelvo
-[08Dec2024 03:47:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <?El.CocaInAs?> hola esta bien felipe?
-[08Dec2024 03:47:49.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <?El.CocaInAs?> eso de agratis
-[08Dec2024 03:48:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <?El.CocaInAs?> xdd
-[08Dec2024 03:48:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Imbued]
-[08Dec2024 03:50:35.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Not a Fluid!]
-[08Dec2024 03:56:51.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Not Today, Thank You]
-[08Dec2024 03:59:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 starved to death
-[08Dec2024 03:59:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Crops of the Wild]
-[08Dec2024 04:00:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Diamonds!]
-[08Dec2024 04:02:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
-[08Dec2024 04:04:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
-[08Dec2024 04:04:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was blown up by Creeper
-[08Dec2024 04:07:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
-[08Dec2024 04:08:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was shot by Skeleton
-[08Dec2024 04:09:06.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
-[08Dec2024 04:11:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [A Seedy Place]
-[08Dec2024 04:14:29.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 04:14:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 04:17:09.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
-[08Dec2024 04:17:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
-[08Dec2024 04:17:09.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Dec2024 04:20:57.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:39817] logged in with entity id 35158 at (-1247.0652552441734, -18.0, 1057.0010003726634)
-[08Dec2024 04:20:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
-[08Dec2024 04:20:57.219] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
-[08Dec2024 04:21:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? fell from a high place
-[08Dec2024 04:23:58.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? moved wrongly!
-[08Dec2024 04:30:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Cover Me with Diamonds]
-[08Dec2024 04:34:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Sea? Not a Problem]
-[08Dec2024 04:39:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Cyclops
-[08Dec2024 04:44:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [My Name is Nobody]
-[08Dec2024 04:45:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was turned into gorgonzola by Gorgon
-[08Dec2024 04:46:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was turned to stone by Gorgon
-[08Dec2024 04:48:34.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
-[08Dec2024 04:48:34.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
-[08Dec2024 04:48:34.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
-[08Dec2024 04:48:34.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
-[08Dec2024 04:48:34.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ?El.CocaInAs?) moved wrongly! 0.963134765625
-[08Dec2024 04:48:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was turned into gorgonzola by Gorgon
-[08Dec2024 04:52:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
-[08Dec2024 05:01:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
-[08Dec2024 05:06:47.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
-[08Dec2024 05:06:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
-[08Dec2024 05:08:48.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.143.196.184:54249] logged in with entity id 59109 at (-300.0489496624963, 62.07326432466507, 763.403785594929)
-[08Dec2024 05:08:48.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
-[08Dec2024 05:08:49.067] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
-[08Dec2024 05:10:43.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60453, l='ServerLevel[world]', x=-831.49, y=73.00, z=869.88] died, message: 'Unemployed was slain by Zombie'
-[08Dec2024 05:18:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
-[08Dec2024 05:35:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Diamonds!]
-[08Dec2024 05:35:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Sea Serpent
-[08Dec2024 05:36:15.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
-[08Dec2024 05:36:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
-[08Dec2024 05:36:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
-[08Dec2024 05:37:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
-[08Dec2024 05:40:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Magic Mod Mechanic]
-[08Dec2024 05:42:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 fell from a high place
-[08Dec2024 05:48:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Magebloom]
-[08Dec2024 06:00:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
-[08Dec2024 06:03:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
-[08Dec2024 06:04:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
-[08Dec2024 06:04:57.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
-[08Dec2024 06:05:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
-[08Dec2024 06:06:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
-[08Dec2024 06:07:54.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
-[08Dec2024 06:07:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[13Dec2024 01:58:19.465] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Dec2024 01:58:19.473] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[13Dec2024 01:58:22.781] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Dec2024 01:58:22.932] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Dec2024 01:58:23.450] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 01:58:23.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 01:58:23.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 01:58:23.499] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Dec2024 01:58:23.812] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Dec2024 01:58:23.814] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/MSP/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[13Dec2024 01:58:23.814] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[13Dec2024 01:58:26.762] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Dec2024 01:58:26.868] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Dec2024 01:58:28.531] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[13Dec2024 01:58:28.532] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[13Dec2024 01:58:28.532] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[13Dec2024 01:58:29.797] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[13Dec2024 01:58:34.848] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[13Dec2024 01:58:34.848] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[13Dec2024 01:58:37.302] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[13Dec2024 01:58:37.303] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[13Dec2024 01:58:37.303] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[13Dec2024 01:58:37.304] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[13Dec2024 01:58:39.082] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[13Dec2024 01:58:39.083] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: SkinLayer3DCompat
+[13Dec2024 01:58:39.086] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[13Dec2024 01:58:39.206] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[13Dec2024 01:58:39.497] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Dec2024 01:58:39.497] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Dec2024 01:58:40.159] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[13Dec2024 01:58:40.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Dec2024 01:58:40.554] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[13Dec2024 01:58:40.556] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[13Dec2024 01:58:42.709] [main/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood
+[13Dec2024 01:58:42.714] [main/INFO] [Moonlight/]: Initialized block sets in 12ms
+[13Dec2024 01:58:43.846] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[13Dec2024 01:58:43.854] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[13Dec2024 01:58:43.854] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[13Dec2024 01:58:43.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:43.921] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[13Dec2024 01:58:44.068] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
+[13Dec2024 01:58:44.073] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
+[13Dec2024 01:58:44.102] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[13Dec2024 01:58:44.372] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[13Dec2024 01:58:44.378] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[13Dec2024 01:58:44.390] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[13Dec2024 01:58:44.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[13Dec2024 01:58:45.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[13Dec2024 01:58:45.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[13Dec2024 01:58:45.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[13Dec2024 01:58:45.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Dec2024 01:58:45.471] [main/INFO] [journeymap/]: Initializing Packet Registries
+[13Dec2024 01:58:45.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[13Dec2024 01:58:45.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[13Dec2024 01:58:45.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.34 Target: null
+[13Dec2024 01:58:45.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[13Dec2024 01:58:45.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[13Dec2024 01:58:45.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[13Dec2024 01:58:45.579] [main/INFO] [Moonlight/]: Initialized color sets in 32ms
+[13Dec2024 01:58:45.604] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[13Dec2024 01:58:45.649] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Dec2024 01:58:45.650] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Dec2024 01:58:45.652] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[13Dec2024 01:58:45.674] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[13Dec2024 01:58:45.723] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13Dec2024 01:58:45.749] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13Dec2024 01:58:45.759] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13Dec2024 01:58:45.762] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[13Dec2024 01:58:45.763] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[13Dec2024 01:58:46.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[13Dec2024 01:58:46.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[13Dec2024 01:58:46.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[13Dec2024 01:58:47.835] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Dec2024 01:58:49.066] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[13Dec2024 01:58:49.067] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[13Dec2024 01:58:51.648] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
+[13Dec2024 01:58:53.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[13Dec2024 01:58:53.615] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2376 advancements
+[13Dec2024 01:58:53.698] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
+[13Dec2024 01:58:53.719] [main/INFO] [Dungeon Crawl/]: Loading data...
+[13Dec2024 01:58:54.086] [main/INFO] [Dungeon Crawl/]: Done.
+[13Dec2024 01:58:54.111] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[13Dec2024 01:58:54.116] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[13Dec2024 01:58:54.118] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[13Dec2024 01:58:55.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Dec2024 01:58:55.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Dec2024 01:58:55.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Dec2024 01:58:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Dec2024 01:58:55.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Dec2024 01:58:55.407] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Dec2024 01:58:55.465] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
+[13Dec2024 01:58:55.508] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Dec2024 01:58:55.515] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Dec2024 01:58:55.516] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Dec2024 01:58:55.516] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Dec2024 01:58:55.516] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Dec2024 01:58:55.543] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Dec2024 01:58:55.546] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Dec2024 01:58:55.635] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
+[13Dec2024 01:58:55.637] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay na
+[13Dec2024 01:58:55.919] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13Dec2024 01:58:56.243] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13Dec2024 01:58:56.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Dec2024 01:58:56.734] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x1070689f, QuicStreamAddress{streamId=0}]
+[13Dec2024 01:58:56.737] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
+[13Dec2024 01:58:56.765] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
+[13Dec2024 01:58:56.766] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: bean-depend.na.e4mc.link
+[13Dec2024 01:59:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Dec2024 01:59:02.858] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:02.869] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:02.881] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:02.897] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:02.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:03.011] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:03.522] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:04.006] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:04.506] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:05.015] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:05.506] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Dec2024 01:59:06.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Dec2024 01:59:06.506] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[13Dec2024 01:59:07.007] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[13Dec2024 01:59:07.506] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[13Dec2024 01:59:08.007] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[13Dec2024 01:59:08.210] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7704 ms
+[13Dec2024 01:59:08.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.671s)! For help, type "help"
+[13Dec2024 01:59:08.298] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 01:59:08.343] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
+[13Dec2024 01:59:08.347] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[13Dec2024 01:59:08.348] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[13Dec2024 01:59:08.348] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[13Dec2024 02:00:14.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.154.4.19:58907] logged in with entity id 34 at (-1156.468326422409, 13.0, 1052.699999988079)
+[13Dec2024 02:00:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[13Dec2024 02:00:15.023] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[13Dec2024 02:00:18.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[13Dec2024 02:00:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[13Dec2024 02:00:49.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.89.229.213:38863] logged in with entity id 420 at (-1126.1175840970325, 66.0, 1000.664699768879)
+[13Dec2024 02:00:49.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[13Dec2024 02:00:49.631] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[13Dec2024 02:13:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:14:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[13Dec2024 02:17:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
+[13Dec2024 02:17:51.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[13Dec2024 02:17:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[13Dec2024 02:17:51.277] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
