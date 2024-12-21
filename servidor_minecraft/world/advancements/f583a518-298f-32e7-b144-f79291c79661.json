@@ -3544,6 +3544,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2024-12-21 20:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-21 20:00:59 +0000"
@@ -3679,6 +3685,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-21 20:46:55 +0000"
     },
     "done": true
   },

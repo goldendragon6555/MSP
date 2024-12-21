@@ -178,3 +178,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 20:45:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was struck with lightning by a dragon
 [21Dec2024 20:46:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was struck with lightning by a dragon
 [21Dec2024 20:48:29.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was doomed to fall by Lightning Dragon
+[21Dec2024 20:49:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was energized by a dragon
+[21Dec2024 20:50:27.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[21Dec2024 20:54:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was energized by a dragon
