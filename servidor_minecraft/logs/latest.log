@@ -173,3 +173,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 20:10:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
 [21Dec2024 20:27:39.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved too quickly! -8.292453700531723,1.252203340253729,5.590777951715154
 [21Dec2024 20:33:57.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <felipe> WWWDD
+[21Dec2024 20:43:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Lightning Dragon
+[21Dec2024 20:44:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Lightning Dragon
+[21Dec2024 20:45:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was struck with lightning by a dragon
+[21Dec2024 20:46:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was struck with lightning by a dragon
+[21Dec2024 20:48:29.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was doomed to fall by Lightning Dragon
