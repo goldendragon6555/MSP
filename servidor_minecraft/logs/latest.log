@@ -209,3 +209,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 21:17:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
 [21Dec2024 21:17:56.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
 [21Dec2024 21:18:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[21Dec2024 21:22:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Sea Serpent
+[21Dec2024 21:25:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was shot by Skeleton
+[21Dec2024 21:26:08.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was shot by Skeleton
+[21Dec2024 21:27:38.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Disconnected
+[21Dec2024 21:27:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[21Dec2024 21:28:29.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[21Dec2024 21:28:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
