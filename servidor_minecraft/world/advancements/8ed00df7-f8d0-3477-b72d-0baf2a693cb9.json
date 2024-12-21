@@ -2153,7 +2153,9 @@
       "bread": "2024-12-08 03:04:19 +0000",
       "rotten_flesh": "2024-12-08 00:54:40 +0000",
       "salmon": "2024-12-08 02:26:03 +0000",
+      "melon_slice": "2024-12-21 20:03:09 +0000",
       "golden_carrot": "2024-12-08 00:56:57 +0000",
+      "cooked_rabbit": "2024-12-21 20:03:01 +0000",
       "cooked_chicken": "2024-12-08 02:10:13 +0000",
       "mushroom_stew": "2024-12-21 03:17:02 +0000",
       "carrot": "2024-12-13 02:29:02 +0000"
@@ -4273,6 +4275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-21 20:02:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-21 19:53:37 +0000"
@@ -4282,6 +4290,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-21 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-21 19:55:08 +0000"
     },
     "done": true
   },
@@ -4297,9 +4311,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-21 20:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-21 20:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-21 19:53:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-21 20:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 19:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-21 20:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 19:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 19:55:52 +0000"
     },
     "done": true
   },

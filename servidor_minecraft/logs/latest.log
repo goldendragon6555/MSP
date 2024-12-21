@@ -161,3 +161,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 19:54:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Diamonds!]
 [21Dec2024 19:55:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Cover Me with Diamonds]
 [21Dec2024 19:55:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Cover Me with Diamonds]
+[21Dec2024 20:05:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[21Dec2024 20:07:04.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe hit the ground too hard
