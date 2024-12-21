@@ -2068,6 +2068,7 @@
       "bread": "2024-12-08 04:10:36 +0000",
       "rotten_flesh": "2024-12-08 02:22:21 +0000",
       "golden_carrot": "2024-12-08 00:56:58 +0000",
+      "cooked_chicken": "2024-12-21 02:46:38 +0000",
       "cooked_salmon": "2024-12-08 02:23:10 +0000"
     },
     "done": false
@@ -3384,6 +3385,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-21 02:46:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 02:38:28 +0000"
@@ -3447,6 +3454,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2024-12-21 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-21 02:46:31 +0000"
     },
     "done": true
   },
