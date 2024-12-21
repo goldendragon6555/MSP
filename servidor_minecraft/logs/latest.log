@@ -216,3 +216,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 21:27:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
 [21Dec2024 21:28:29.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
 [21Dec2024 21:28:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[21Dec2024 21:34:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Fishy Business]
+[21Dec2024 21:39:35.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[21Dec2024 21:39:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
