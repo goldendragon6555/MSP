@@ -163,3 +163,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 19:55:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Cover Me with Diamonds]
 [21Dec2024 20:05:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
 [21Dec2024 20:07:04.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe hit the ground too hard
+[21Dec2024 20:08:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Take Aim]
+[21Dec2024 20:08:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[21Dec2024 20:09:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[21Dec2024 20:09:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[21Dec2024 20:09:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
+[21Dec2024 20:09:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[21Dec2024 20:10:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
+[21Dec2024 20:10:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
