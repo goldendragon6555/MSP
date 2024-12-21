@@ -171,3 +171,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 20:09:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
 [21Dec2024 20:10:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
 [21Dec2024 20:10:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[21Dec2024 20:27:39.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved too quickly! -8.292453700531723,1.252203340253729,5.590777951715154
