@@ -159,3 +159,13 @@
 [21Dec2024 02:47:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
 [21Dec2024 03:05:12.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
 [21Dec2024 03:05:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[21Dec2024 03:12:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was killed by Area Effect Cloud using magic
+[21Dec2024 03:12:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Husk
+[21Dec2024 03:12:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Husk
+[21Dec2024 03:13:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Husk
+[21Dec2024 03:21:43.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 starved to death
+[21Dec2024 03:22:01.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe hit the ground too hard
+[21Dec2024 03:23:40.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[21Dec2024 03:23:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[21Dec2024 03:23:42.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[21Dec2024 03:23:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game

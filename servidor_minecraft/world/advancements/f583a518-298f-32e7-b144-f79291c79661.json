@@ -2069,7 +2069,8 @@
       "rotten_flesh": "2024-12-08 02:22:21 +0000",
       "golden_carrot": "2024-12-08 00:56:58 +0000",
       "cooked_chicken": "2024-12-21 02:46:38 +0000",
-      "cooked_salmon": "2024-12-08 02:23:10 +0000"
+      "cooked_salmon": "2024-12-08 02:23:10 +0000",
+      "carrot": "2024-12-21 03:18:52 +0000"
     },
     "done": false
   },
@@ -2138,6 +2139,7 @@
       "minecraft:skeleton": "2024-12-08 00:57:32 +0000",
       "minecraft:spider": "2024-12-08 01:42:41 +0000",
       "minecraft:creeper": "2024-12-08 03:12:40 +0000",
+      "minecraft:husk": "2024-12-21 03:11:25 +0000",
       "minecraft:enderman": "2024-12-21 02:04:46 +0000",
       "minecraft:zombie": "2024-12-08 01:03:06 +0000"
     },
@@ -3373,6 +3375,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 03:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-21 02:38:28 +0000"
@@ -3382,6 +3390,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-21 03:15:25 +0000"
     },
     "done": true
   },
@@ -3397,9 +3411,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 03:14:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-21 03:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-21 03:15:25 +0000"
     },
     "done": true
   },
@@ -3454,6 +3486,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-21 03:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-21 03:14:51 +0000"
     },
     "done": true
   },
