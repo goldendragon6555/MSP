@@ -3594,9 +3594,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_smooth_stone": "2024-12-08 05:16:24 +0000"
+      "diamond_boots": "2024-12-08 04:30:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-08 04:34:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-08 04:34:58 +0000"
     },
     "done": true
   },
@@ -3606,33 +3618,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_purple_leggings": {
     "criteria": {
       "has_item": "2024-12-08 04:34:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-08 04:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-12-08 04:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
     },
     "done": true
   },
@@ -3642,15 +3630,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
-      "has_dandelion": "2024-12-08 05:33:48 +0000"
+      "has_item": "2024-12-08 04:34:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-08 04:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 04:43:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-08 04:43:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-08 05:14:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2024-12-08 05:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-08 05:16:24 +0000"
     },
     "done": true
   },
@@ -3666,45 +3702,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_trident": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_item": "2024-12-08 04:34:58 +0000"
+      "has_dandelion": "2024-12-08 05:33:48 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/gold_pile": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_item": "2024-12-08 04:43:05 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
-      "has_log": "2024-12-08 05:14:10 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_purple_boots": {
+  "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
-      "has_item": "2024-12-08 04:34:59 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
-      "has_item": "2024-12-08 04:34:58 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+  "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
-      "has_sea_serpent_scales_purple": "2024-12-08 04:34:59 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "has_log": "2024-12-08 05:14:10 +0000"
+      "has_planks": "2024-12-21 21:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 21:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 21:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 21:18:57 +0000"
     },
     "done": true
   },

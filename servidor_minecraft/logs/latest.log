@@ -184,3 +184,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 21:03:12.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
 [21Dec2024 21:03:12.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
 [21Dec2024 21:03:13.004] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 21:12:38.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.82.237.218:46171] logged in with entity id 15729 at (-1145.2262234131367, 65.0, 1042.8407172973523)
+[21Dec2024 21:12:38.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[21Dec2024 21:12:38.571] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[21Dec2024 21:13:38.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[21Dec2024 21:13:38.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[21Dec2024 21:14:16.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ?El.CocaInAs?[/127.70.4.174:36393] logged in with entity id 16127 at (-227.60206814798187, 127.0, 46.959314983251325)
+[21Dec2024 21:14:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? joined the game
+[21Dec2024 21:14:17.004] [Server thread/INFO] [Jade/]: Syncing config to ?El.CocaInAs? (7a6551f4-0a2b-3904-a0de-f00ef80ac3f7)
+[21Dec2024 21:14:53.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[21Dec2024 21:15:10.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Timed out
+[21Dec2024 21:15:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[21Dec2024 21:15:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was blown up by Creeper
+[21Dec2024 21:15:43.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.136.40.252:40605] logged in with entity id 17037 at (-1143.3046595089897, 65.0, 1040.5001591562732)
+[21Dec2024 21:15:43.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[21Dec2024 21:15:43.479] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[21Dec2024 21:16:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Umvuthana Raptor
+[21Dec2024 21:16:39.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.158.233.35:43577] logged in with entity id 17674 at (-1147.5, 65.0, 1039.5)
+[21Dec2024 21:16:39.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[21Dec2024 21:16:39.322] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[21Dec2024 21:16:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[21Dec2024 21:17:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[21Dec2024 21:17:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by Zombie
+[21Dec2024 21:17:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[21Dec2024 21:17:56.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[21Dec2024 21:18:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
