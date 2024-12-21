@@ -1702,6 +1702,7 @@
       "minecraft:savanna_plateau": "2024-12-08 01:32:57 +0000",
       "minecraft:beach": "2024-12-13 02:10:29 +0000",
       "minecraft:stony_peaks": "2024-12-08 01:02:04 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 02:13:57 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 01:01:53 +0000",
       "minecraft:river": "2024-12-08 00:45:04 +0000",
       "minecraft:stony_shore": "2024-12-08 00:43:50 +0000",
@@ -3359,9 +3360,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-21 02:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2024-12-21 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-21 02:12:37 +0000"
     },
     "done": true
   },
@@ -3374,6 +3399,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-21 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-21 02:12:37 +0000"
     },
     "done": true
   },
