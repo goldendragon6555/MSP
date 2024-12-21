@@ -181,3 +181,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Dec2024 20:49:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was energized by a dragon
 [21Dec2024 20:50:27.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
 [21Dec2024 20:54:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was energized by a dragon
+[21Dec2024 21:03:12.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[21Dec2024 21:03:12.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[21Dec2024 21:03:13.004] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
