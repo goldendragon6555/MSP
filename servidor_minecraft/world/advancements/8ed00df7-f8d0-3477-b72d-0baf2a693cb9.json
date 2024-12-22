@@ -4698,6 +4698,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2024-12-22 03:48:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-22 03:16:37 +0000"
@@ -4737,6 +4743,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-22 03:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-22 03:29:21 +0000"
     },
     "done": true
   },
@@ -4827,6 +4839,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-22 03:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-22 03:29:21 +0000"
     },
     "done": true
   },
