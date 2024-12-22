@@ -2070,6 +2070,7 @@
       "rotten_flesh": "2024-12-08 02:22:21 +0000",
       "golden_carrot": "2024-12-08 00:56:58 +0000",
       "cooked_chicken": "2024-12-21 02:46:38 +0000",
+      "mushroom_stew": "2024-12-22 02:41:12 +0000",
       "cooked_salmon": "2024-12-08 02:23:10 +0000",
       "carrot": "2024-12-21 03:18:52 +0000"
     },
@@ -3817,6 +3818,12 @@
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2024-12-21 20:49:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-22 02:41:12 +0000"
     },
     "done": true
   },
