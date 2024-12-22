@@ -140,3 +140,5 @@
 [22Dec2024 02:38:48.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.90.155.167:35987] logged in with entity id 2874 at (-1146.7907582451912, 65.0, 1042.5612463206899)
 [22Dec2024 02:38:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
 [22Dec2024 02:38:48.691] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[22Dec2024 02:50:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[22Dec2024 02:51:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
