@@ -142,3 +142,10 @@
 [22Dec2024 02:38:48.691] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
 [22Dec2024 02:50:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
 [22Dec2024 02:51:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
+[22Dec2024 03:02:50.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[22Dec2024 03:02:50.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[22Dec2024 03:02:50.650] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 03:03:35.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47b930fe[id=<null>,name=felipe,properties={},legacy=false] (/127.90.155.167:46661) lost connection: Disconnected
+[22Dec2024 03:04:18.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.90.155.167:59535] logged in with entity id 6024 at (-1145.5556461504966, 65.0, 1041.4816209041837)
+[22Dec2024 03:04:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[22Dec2024 03:04:18.126] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
