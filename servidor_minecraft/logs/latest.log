@@ -174,3 +174,9 @@
 [22Dec2024 03:54:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Isn't It Iron Pick]
 [22Dec2024 04:07:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by felipe
 [22Dec2024 04:09:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Husk
+[22Dec2024 04:12:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Husk
+[22Dec2024 04:17:34.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved too quickly! -0.7616416647406368,-1.0,10.050838558832197
+[22Dec2024 04:18:04.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has reached the goal [Pray to the Goddess]
+[22Dec2024 04:18:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has reached the goal [Pray to the Goddess]
+[22Dec2024 04:27:50.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[22Dec2024 04:27:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game

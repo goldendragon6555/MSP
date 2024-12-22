@@ -4692,6 +4692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-22 03:16:37 +0000"
@@ -4731,6 +4737,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-22 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-22 04:18:11 +0000"
     },
     "done": true
   },
@@ -4788,6 +4800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2024-12-22 03:24:08 +0000"
@@ -4797,6 +4815,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2024-12-22 03:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -4917,6 +4941,12 @@
   "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-22 03:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-22 04:27:28 +0000"
     },
     "done": true
   },
