@@ -136,3 +136,7 @@
 [22Dec2024 02:22:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
 [22Dec2024 02:22:52.580] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
 [22Dec2024 02:22:55.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[22Dec2024 02:38:05.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22bcbe4d[id=<null>,name=felipe,properties={},legacy=false] (/127.90.155.167:54309) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[22Dec2024 02:38:48.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.90.155.167:35987] logged in with entity id 2874 at (-1146.7907582451912, 65.0, 1042.5612463206899)
+[22Dec2024 02:38:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[22Dec2024 02:38:48.691] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
