@@ -150,3 +150,13 @@
 [22Dec2024 03:04:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
 [22Dec2024 03:04:18.126] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
 [22Dec2024 03:11:14.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Take Aim]
+[22Dec2024 03:22:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Skeleton
+[22Dec2024 03:22:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Skeleton
+[22Dec2024 03:22:19.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[22Dec2024 03:22:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[22Dec2024 03:23:14.748] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@230fc16b[id=<null>,name=felipe,properties={},legacy=false] (/127.146.176.76:53713) lost connection: Disconnected
+[22Dec2024 03:23:35.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.90.155.167:34781] logged in with entity id 9934 at (-1147.5, 65.0, 1037.5)
+[22Dec2024 03:23:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[22Dec2024 03:23:35.962] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[22Dec2024 03:24:08.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has reached the goal [Half a flight]
+[22Dec2024 03:24:12.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has reached the goal [Half a flight]
