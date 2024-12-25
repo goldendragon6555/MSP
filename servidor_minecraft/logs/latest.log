@@ -172,3 +172,8 @@
 [25Dec2024 04:48:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
 [25Dec2024 04:49:52.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
 [25Dec2024 04:49:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[25Dec2024 05:18:25.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.30.165.124:56107] logged in with entity id 31125 at (-14.831586646559835, 95.0, -55.69999998807907)
+[25Dec2024 05:18:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[25Dec2024 05:18:25.450] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[25Dec2024 05:30:50.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
+[25Dec2024 05:31:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
