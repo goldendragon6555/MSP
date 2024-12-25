@@ -4152,5 +4152,11 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-25 04:19:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
