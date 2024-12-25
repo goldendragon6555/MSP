@@ -177,3 +177,7 @@
 [25Dec2024 05:18:25.450] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
 [25Dec2024 05:30:50.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
 [25Dec2024 05:31:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[25Dec2024 06:03:06.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[25Dec2024 06:03:06.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[25Dec2024 06:03:09.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[25Dec2024 06:03:09.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
