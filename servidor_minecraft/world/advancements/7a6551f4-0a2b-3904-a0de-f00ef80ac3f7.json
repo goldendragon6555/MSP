@@ -3805,6 +3805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 04:11:29 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2024-12-25 03:59:06 +0000"
@@ -3814,6 +3820,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-25 03:57:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-25 04:11:29 +0000"
     },
     "done": true
   },
@@ -3829,9 +3841,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-25 04:11:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-25 04:11:29 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2024-12-25 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-25 04:20:09 +0000"
     },
     "done": true
   },

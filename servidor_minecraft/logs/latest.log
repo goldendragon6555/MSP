@@ -157,3 +157,13 @@
 [25Dec2024 04:06:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was shot by Skeleton
 [25Dec2024 04:07:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Skeleton
 [25Dec2024 04:08:00.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was shot by Skeleton
+[25Dec2024 04:16:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Birds of a Feather]
+[25Dec2024 04:19:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Birds of a Feather]
+[25Dec2024 04:20:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? has made the advancement [Birds of a Feather]
+[25Dec2024 04:22:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? was slain by felipe
+[25Dec2024 04:23:00.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? drowned
+[25Dec2024 04:23:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was energized by a dragon
+[25Dec2024 04:23:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was struck with lightning by a dragon
+[25Dec2024 04:23:39.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Timed out
+[25Dec2024 04:23:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
+[25Dec2024 04:24:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved too quickly! -1.8363160225699744,-11.19886200217772,0.49393464127836495
