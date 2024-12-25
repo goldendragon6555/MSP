@@ -2062,6 +2062,7 @@
       "cooked_porkchop": "2024-12-08 01:52:48 +0000",
       "cooked_mutton": "2024-12-08 02:08:07 +0000",
       "cooked_beef": "2024-12-08 01:31:59 +0000",
+      "baked_potato": "2024-12-25 04:39:16 +0000",
       "beef": "2024-12-25 03:55:18 +0000",
       "porkchop": "2024-12-08 02:07:34 +0000",
       "apple": "2024-12-08 00:52:19 +0000",
@@ -4149,6 +4150,48 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-22 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 04:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-25 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-25 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-25 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-25 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-25 04:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 04:38:47 +0000"
     },
     "done": true
   },

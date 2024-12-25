@@ -167,3 +167,8 @@
 [25Dec2024 04:23:39.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ?El.CocaInAs? lost connection: Timed out
 [25Dec2024 04:23:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ?El.CocaInAs? left the game
 [25Dec2024 04:24:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved too quickly! -1.8363160225699744,-11.19886200217772,0.49393464127836495
+[25Dec2024 04:45:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was shot by Stray
+[25Dec2024 04:46:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
+[25Dec2024 04:48:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by Zombie
+[25Dec2024 04:49:52.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[25Dec2024 04:49:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game

@@ -2149,6 +2149,7 @@
       "cooked_mutton": "2024-12-08 01:43:49 +0000",
       "cooked_beef": "2024-12-08 03:06:53 +0000",
       "beef": "2024-12-08 01:30:00 +0000",
+      "baked_potato": "2024-12-25 04:42:39 +0000",
       "apple": "2024-12-21 20:07:53 +0000",
       "pumpkin_pie": "2024-12-21 03:19:26 +0000",
       "mutton": "2024-12-08 02:41:02 +0000",
@@ -5017,6 +5018,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 04:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-25 03:46:58 +0000"
@@ -5038,6 +5045,18 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-25 03:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-25 04:41:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-25 04:42:03 +0000"
     },
     "done": true
   },
