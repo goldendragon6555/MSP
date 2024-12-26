@@ -145,3 +145,7 @@
 [26Dec2024 02:07:18.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved wrongly!
 [26Dec2024 02:42:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Warped]
 [26Dec2024 02:51:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [Brazen]
+[26Dec2024 03:29:55.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[26Dec2024 03:29:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[26Dec2024 03:29:59.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[26Dec2024 03:29:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game

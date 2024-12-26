@@ -3592,6 +3592,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-12-21 03:22:16 +0000",
+      "tomato": "2024-12-26 03:25:33 +0000",
       "wheat": "2024-12-08 04:11:21 +0000",
       "pumpkin": "2024-12-21 20:34:34 +0000"
     },
@@ -5307,6 +5308,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-26 03:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-26 02:53:26 +0000"
@@ -5316,6 +5329,18 @@
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2024-12-26 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-26 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-26 03:27:23 +0000"
     },
     "done": true
   },
