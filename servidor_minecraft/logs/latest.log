@@ -139,3 +139,5 @@
 [26Dec2024 01:50:37.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.2.78.62:52637] logged in with entity id 832 at (-446.5391347538262, 110.0, 547.8064725475399)
 [26Dec2024 01:50:37.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
 [26Dec2024 01:50:37.826] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[26Dec2024 01:57:01.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe moved wrongly!
+[26Dec2024 02:01:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe has made the advancement [Ice Bucket Challenge]
