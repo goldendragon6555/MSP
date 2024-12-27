@@ -197,3 +197,10 @@
 [27Dec2024 03:08:25.888] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
 [27Dec2024 03:09:25.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 has made the advancement [They Have a Cave Troll!]
 [27Dec2024 03:18:25.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was blown up by Creeper
+[27Dec2024 03:19:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[27Dec2024 03:20:59.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was blown up by Creeper
+[27Dec2024 03:24:09.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by felipe
+[27Dec2024 03:31:04.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[27Dec2024 03:31:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 03:31:05.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[27Dec2024 03:31:05.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
