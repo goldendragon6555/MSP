@@ -5296,15 +5296,33 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
+  "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "has_ritual_brazier": "2024-12-26 02:51:54 +0000"
+      "has_birch_trapdoor": "2024-12-26 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-26 02:04:33 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-26 02:05:10 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2024-12-26 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-26 02:53:26 +0000"
     },
     "done": true
   },
@@ -5320,18 +5338,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-12-26 02:53:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2024-12-26 01:47:41 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2024-12-26 03:27:23 +0000"
@@ -5341,12 +5347,6 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-26 03:27:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-12-26 02:04:33 +0000"
     },
     "done": true
   },
