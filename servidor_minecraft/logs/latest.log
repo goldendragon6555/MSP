@@ -144,3 +144,4 @@
 [27Dec2024 02:02:08.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:53103] logged in with entity id 387 at (-951.3414371652674, -48.0, 672.0689794493309)
 [27Dec2024 02:02:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
 [27Dec2024 02:02:08.845] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[27Dec2024 02:11:58.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/210, l='ServerLevel[world]', x=-929.55, y=62.05, z=449.56] died, message: 'Unemployed was slain by Drowned'

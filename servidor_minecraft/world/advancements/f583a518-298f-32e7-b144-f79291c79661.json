@@ -4567,5 +4567,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-27 02:11:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
