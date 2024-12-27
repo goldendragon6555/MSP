@@ -2062,6 +2062,7 @@
       "minecraft:cave_spider": "2024-12-25 06:00:33 +0000",
       "minecraft:stray": "2024-12-25 05:38:24 +0000",
       "minecraft:silverfish": "2024-12-25 19:01:44 +0000",
+      "minecraft:enderman": "2024-12-27 02:59:31 +0000",
       "minecraft:zombie": "2024-12-08 00:52:16 +0000",
       "minecraft:drowned": "2024-12-08 04:53:37 +0000",
       "minecraft:zombie_villager": "2024-12-22 03:10:09 +0000"
@@ -5354,6 +5355,24 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-27 02:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-27 02:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 02:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-27 02:57:35 +0000"
     },
     "done": true
   },

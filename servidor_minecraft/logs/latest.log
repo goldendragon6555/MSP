@@ -185,3 +185,13 @@
 [27Dec2024 02:35:59.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by felipe
 [27Dec2024 02:42:05.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by felipe
 [27Dec2024 02:42:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe was slain by goldendragon6555
+[27Dec2024 03:01:14.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[27Dec2024 03:01:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 03:03:23.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:59889] logged in with entity id 14792 at (-1451.5814138368357, 37.0, 1056.844182471915)
+[27Dec2024 03:03:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[27Dec2024 03:03:23.737] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[27Dec2024 03:05:53.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[27Dec2024 03:05:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 03:08:25.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:46029] logged in with entity id 15534 at (-1431.514927548286, 37.0, 1095.5850533920864)
+[27Dec2024 03:08:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[27Dec2024 03:08:25.888] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
