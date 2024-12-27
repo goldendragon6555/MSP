@@ -145,3 +145,29 @@
 [27Dec2024 02:02:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
 [27Dec2024 02:02:08.845] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
 [27Dec2024 02:11:58.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/210, l='ServerLevel[world]', x=-929.55, y=62.05, z=449.56] died, message: 'Unemployed was slain by Drowned'
+[27Dec2024 02:18:58.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Disconnected
+[27Dec2024 02:18:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[27Dec2024 02:19:02.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Disconnected
+[27Dec2024 02:19:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 02:19:47.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:54109] logged in with entity id 4113 at (-962.7418488424975, -17.0, 628.7794058516605)
+[27Dec2024 02:19:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[27Dec2024 02:19:47.086] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[27Dec2024 02:20:26.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.68.123.250:45283] logged in with entity id 4447 at (-961.9114917478532, -17.0, 627.4011923115318)
+[27Dec2024 02:20:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[27Dec2024 02:20:26.162] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[27Dec2024 02:22:11.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: felipe lost connection: Timed out
+[27Dec2024 02:22:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe left the game
+[27Dec2024 02:22:32.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Timed out
+[27Dec2024 02:22:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 02:22:32.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 was slain by Zombie
+[27Dec2024 02:22:40.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:54529] logged in with entity id 4793 at (-919.7296156139562, 4.0, 659.2104186304487)
+[27Dec2024 02:22:40.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[27Dec2024 02:22:40.989] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
+[27Dec2024 02:22:53.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: felipe[/127.68.123.250:48293] logged in with entity id 5232 at (-918.6466009579635, -1.0, 663.5293623880549)
+[27Dec2024 02:22:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: felipe joined the game
+[27Dec2024 02:22:53.436] [Server thread/INFO] [Jade/]: Syncing config to felipe (f583a518-298f-32e7-b144-f79291c79661)
+[27Dec2024 02:27:56.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: goldendragon6555 lost connection: Timed out
+[27Dec2024 02:27:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 left the game
+[27Dec2024 02:28:08.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: goldendragon6555[/127.245.91.165:60341] logged in with entity id 6250 at (-885.9983330858239, -2.8732400226259234, 633.0033701731162)
+[27Dec2024 02:28:08.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: goldendragon6555 joined the game
+[27Dec2024 02:28:08.537] [Server thread/INFO] [Jade/]: Syncing config to goldendragon6555 (8ed00df7-f8d0-3477-b72d-0baf2a693cb9)
