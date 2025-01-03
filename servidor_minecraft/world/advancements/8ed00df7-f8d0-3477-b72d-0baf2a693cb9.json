@@ -5376,9 +5376,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/lodestone": {
+  "iceandfire:iceandfire/kill_troll": {
     "criteria": {
-      "has_chiseled_stone_bricks": "2024-12-27 03:20:28 +0000"
+      "killed_fire_dragon": "2024-12-27 03:09:25 +0000"
     },
     "done": true
   },
@@ -5391,6 +5391,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-27 03:09:28 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-27 03:20:28 +0000"
     },
     "done": true
   },
@@ -5409,12 +5415,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-27 03:30:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-27 03:09:25 +0000"
     },
     "done": true
   },
